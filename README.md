@@ -61,3 +61,33 @@ This project is an interactive business intelligence dashboard designed to analy
 <img src="https://github.com/riya1234000/Excel-Super-Store-Sales-Dashboard/blob/71aecc44563d279e41c8d283cd83cb205549065b/Screenshot%202026-03-23%20025409.png
 " alt="Image Description" width="1000">
 
+## Process
+- verify data for any missing value and anomalies sort out the same.
+- Made sure data is consistent and clean with respect to data type, data format and values used.
+- Created pivot tables according to the questions asked.
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+## Project Insights
+
+🚀 Thrilled to share my latest project — an interactive sales dashboard that brings retail data to life through powerful visual storytelling!
+ This dashboard uncovers 10 essential business insights:
+
+Total Sales: ₹5.82M+
+
+Average Sales per Transaction: ₹582+
+
+Total Transactions: 9,994
+
+Total Quantity Sold: 25,123
+
+Ship Mode Sales %: Evenly distributed across Standard, Second Class, Same Day, First Class
+
+Zone-wise Transactions: Central leads with 3,203 transactions
+
+Month-wise Quantity Trends: November peaks at 3,039 units
+
+Top 5 Cities by Sales: New York tops at ₹6.54L
+
+Category-wise Transactions: Office Supplies dominate with 6,026
+
+Consumer Type Analysis: Consumers drive majority orders (13,030)
