@@ -12,38 +12,45 @@ This project is an interactive business intelligence dashboard designed to analy
 
 ## Questions (KPI'S)
 
-:-Sales Performance-
+                              :-Sales Performance-
 
 1.What is the total sales revenue across all transactions?
+
 2.What is the average sales per transaction?
 
-:-Operational Efficiency
+                              :-Operational Efficiency
 
 3.How many transactions were completed in total?
+
 4.What is the total quantity of products sold?
 
-:-Shipping & Logistics
+                              :-Shipping & Logistics
 
 5.What percentage of sales comes from each shipping mode (Standard, Same Day, First Class, Second Class)?
+
 6.Which shipping mode contributes most to revenue?
 
-:-Regional Insights
+                              :-Regional Insights
 
 7.How many transactions occurred in each region (Central, East, South, West)?
+
 8.Which region shows the highest transaction volume?
 
-:-Time-Based Trends
+                            :-Time-Based Trends
 
 9.How does monthly quantity ordered vary across the year?
+
 10.Which month shows the peak demand?
 
-:-Customer & Market Segmentation
+                            :-Customer & Market Segmentation
 
 11.Which cities contribute the most sales (Top 5)?
+
 12.Which product category (Office Supplies, Technology, Furniture) drives the most transactions?
+
 13.Which consumer type (Consumer, Corporate, Home Office) orders the highest quantity?
 
 
 ## Dashboard interactive 
-- <a href="https://github.com/riya1234000/EXCEL-DASHBOARD-PROJECT/blob/main/rdashboard.png"> view Dashboard </a>
+
 
