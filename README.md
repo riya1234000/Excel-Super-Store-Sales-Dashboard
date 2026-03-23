@@ -58,8 +58,7 @@ This project is an interactive business intelligence dashboard designed to analy
 
 
 
-<img src="https://github.com/riya1234000/Excel-Super-Store-Sales-Dashboard/blob/71aecc44563d279e41c8d283cd83cb205549065b/Screenshot%202026-03-23%20025409.png
-" alt="Image Description" width="1000">
+<img src="[https://github.com/riya1234000/Excel-Super-Store-Sales-Dashboard/blob/71aecc44563d279e41c8d283cd83cb205549065b/Screenshot%202026-03-23%20025409.png]" alt="Image Description" width="1000">
 
 ## Process
 - verify data for any missing value and anomalies sort out the same.
