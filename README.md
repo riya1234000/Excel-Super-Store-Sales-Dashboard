@@ -42,3 +42,8 @@ This project is an interactive business intelligence dashboard designed to analy
 11.Which cities contribute the most sales (Top 5)?
 12.Which product category (Office Supplies, Technology, Furniture) drives the most transactions?
 13.Which consumer type (Consumer, Corporate, Home Office) orders the highest quantity?
+
+
+## Dashboard interactive 
+- <a href="https://github.com/riya1234000/EXCEL-DASHBOARD-PROJECT/blob/main/rdashboard.png"> view Dashboard </a>
+
